@@ -4,7 +4,7 @@ int main()
 long long num;
 int count = 0;
 printf("Enter any number: ");
-scanf("%lld", &num);
+scanf("%d", &num);
 while(num != 0)
 {
 count++;
