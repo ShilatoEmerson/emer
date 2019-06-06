@@ -1,3 +1,3 @@
-a=str(input("enter the string:"))
+a=str(input())
 a=a[::-1]
 print(a)
