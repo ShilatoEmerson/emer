@@ -1,4 +1,4 @@
-a=input()
+k=input()
 b=input()
 m= list(b)
 s=[]
