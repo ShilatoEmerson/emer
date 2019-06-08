@@ -1,5 +1,6 @@
-k=int(input())
-l=list(map(int,input().split()))
-l.sort(reverse=True)
-for i in range(k):
-  print(l[i],end="")
+a=int(input())
+b=list(map(int,input().split()))
+b.sort(reverse=True)
+for i in range(a):
+  print(b[i],end="")
+
