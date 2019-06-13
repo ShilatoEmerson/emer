@@ -1,4 +1,3 @@
 a=int(input())
-n=input()
-b=list(n)
-print(min(b),max(b))
+n=list(map(str,input().split()))
+print(min(n),max(n))
